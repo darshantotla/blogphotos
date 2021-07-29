@@ -1,0 +1,34 @@
+#picture{
+text-align: center;
+background-image: linear-gradient(red 5%, orange 10%, yellow 15%, lime 20%, cyan 25%, indigo 30%, purple 30% );
+height:800px;
+}
+
+.blog{
+height: 200px;
+width: 300px;
+}
+
+h1{
+color: white;
+font-family: fantasy;
+font-size: 36px;
+}
+
+body{
+color: white;
+}
+
+#about{
+background-image: linear-gradient(purple 5%, indigo 10%, cyan 15%, lime 20%, yellow 25%, orange 30%, red 30% );
+text-align: center;
+color: orange;
+}
+
+p{
+font-size: 20px;
+}
+
+#hill{
+color: white;
+}
